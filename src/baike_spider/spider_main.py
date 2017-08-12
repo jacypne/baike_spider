@@ -1,3 +1,4 @@
+#coding:utf-8
 from baike_spider import url_manager, html_download, html_parser, html_outputer
 
 
@@ -34,3 +35,4 @@ if __name__=="__main__":
     root_url="http://baike.baidu.com/item/Python"
     obj_spider=SpiderMain()
     obj_spider.craw(root_url)
+    
