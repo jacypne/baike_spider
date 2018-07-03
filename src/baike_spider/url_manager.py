@@ -1,4 +1,5 @@
-#coding£ºutf-8
+#codingï¿½ï¿½utf-8
+#this is just have a try
 
 class UrlManager(object):
 
